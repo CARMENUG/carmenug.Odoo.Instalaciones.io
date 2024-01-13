@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   sin olvidarnos de los procesos de elección de personal, gestión de material extra, material especial para el trabajo, información de todos los procesos
   gestión de incidencias de material especial, comunicación de llegada del material de empresa madre y de la documentación tanto de los replanteos hasta
   los trabajos finales, teniendo disponibilidad de los demás trabajos realizados en el mismo site para la misma empresa madre.
-#baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  CARMENUG

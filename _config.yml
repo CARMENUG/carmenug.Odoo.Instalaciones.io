@@ -21,10 +21,7 @@
 title: INSTALACIONES
 email: c.utrillasginer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Módulo que esta pensado para la gestión integral de instalaciones de telefonia móvil, desde la llegada del pedido/trabajo, hasta la documentación final
-  sin olvidarnos de los procesos de elección de personal, gestión de material extra, material especial para el trabajo, información de todos los procesos
-  gestión de incidencias de material especial, comunicación de llegada del material de empresa madre y de la documentación tanto de los replanteos hasta
-  los trabajos finales, teniendo disponibilidad de los demás trabajos realizados en el mismo site para la misma empresa madre.
+  En este módulo se planificará el trabajo de la instalación de el material necesario en un site desde la replanteo hasta la documentación.
 baseurl: "/" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

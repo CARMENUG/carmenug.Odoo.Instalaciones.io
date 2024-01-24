@@ -8,15 +8,15 @@ layout: default
 
 ## 1. **Nombre del módulo:** 
 
-        INSTALACIONES
+    INSTALACIONES
         
         
 ## 2. **Descripción corta:** 
 
-    Módulo que esta pensado para la gestión integral de instalaciones de telefonia móvil, desde la llegada del pedido/trabajo, hasta la documentación final
-        sin olvidarnos de los procesos de elección de personal, gestión de material extra, material especial para el trabajo, información de todos los procesos
-        gestión de incidencias de material especial, comunicación de llegada del material de empresa madre y de la documentación tanto de los replanteos hasta
-        los trabajos finales, teniendo disponibilidad de los demás trabajos realizados en el mismo site para la misma empresa madre.
+Módulo que esta pensado para la gestión integral de instalaciones de telefonia móvil, desde la llegada del pedido/trabajo, hasta la documentación final
+sin olvidarnos de los procesos de elección de personal, gestión de material extra, material especial para el trabajo, información de todos los procesos
+gestión de incidencias de material especial, comunicación de llegada del material de empresa madre y de la documentación tanto de los replanteos hasta
+los trabajos finales, teniendo disponibilidad de los demás trabajos realizados en el mismo site para la misma empresa madre.
 
 
 ## 3. **Descripción detallada de todas las funcionalidades a cubrir:** 
@@ -120,7 +120,7 @@ Una vez el técnico de documentación ha terminado de documentar la obra, la env
 
 ![](Aspose.Words.ddb7d442-46ff-4c41-94c6-b90c6c6f2576.013.png)
 
-##10. **En el caso de que el módulo tenga como función la comunicación con otros módulos, indica las características de la comunicación: formato, estructura del mensaje, protocolo...:**
+## 10. **En el caso de que el módulo tenga como función la comunicación con otros módulos, indica las características de la comunicación: formato, estructura del mensaje, protocolo...:**
 
     módulo empleados: 
 
